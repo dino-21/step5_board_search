@@ -63,15 +63,7 @@ public class BoardController {
 
 	}
 	
-	@GetMapping("/register2")
-	public void resister2() {
 
-	}
-
-	@GetMapping("/register3")
-	public void resister3() {
-
-	}
 	
 	
 //	@GetMapping("/get")
