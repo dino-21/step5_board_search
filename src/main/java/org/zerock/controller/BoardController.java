@@ -68,6 +68,12 @@ public class BoardController {
 
 	}
 
+	@GetMapping("/register3")
+	public void resister3() {
+
+	}
+	
+	
 //	@GetMapping("/get")
 //	public void testget(@RequestParam("bno") Long bno, Model model) {
 //		log.info("/get : " + bno);
